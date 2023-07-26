@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+.background{
+    background: url("web model 11-20.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.head{
+    width: 7%;
+    float: left;
+    margin-left: 19px;
+    color: white;
+}
+.navbar{
+    float: right;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    width: 47%;
+    display: flex;
+    margin-right: 35px;
+    color: white;
+}
+#about_colour{
+    color: rgb(16, 194, 194);
+}
+.head1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20%;
+    color: blue;
+}
+.para1{
+    color: white;
+    padding-left: 190px;
+    font-size: large;
+    text-align: center;   
+}
+.button{
+    color: white;
+    background-color: darkturquoise;
+    border: none;
+    margin-left: 550px; 
+    margin-top: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+.button2{
+    width: 14%;
+    height: 14%;
+}
+.sec2{
+    width: 100%;
+    height: 100vh;
+}
+.heading2{
+    color: black;
+    text-align: center;
+    margin-top: 59px;
+}
+.para2{
+    color: darkred;
+    padding-left: 230px;
+    padding-right: 140px;
+    text-align: center;
+}
+.line{
+    margin-left: 48%;
+    margin-top: 2%;
+    margin-bottom: 16px;
+}
+.img1{
+    float: left;
+    margin-left: 20px;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 16px;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    width: 30%;
+    margin-left: 38px;
+}
+.img2{
+    float: left;
+    margin: 3px;
+    width: 30%;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 16px;
+    margin-left: 17px;
+}
+.img3{
+    float: left;
+    margin: 3px;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    width: 30%;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 16px;
+    margin-left: 17px;
+}
+.img4{
+    float: left;
+    margin: 3px;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    width: 30%;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 3px;
+    margin-left: 38px;
+}
+.img5{
+    float: left;
+    margin: 3px;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    width: 30%;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+}
+.img6{
+    float: left;
+    margin: 3px;
+    border: solid 2px; color:rgb(230, 224, 224) ;
+    width: 30%;
+    margin-right: 6px;
+    margin-top: 14px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+}
+#h1{
+    text-align: center;
+    color: black;
+    padding: 16px;
+}
+#image1{
+    padding-left: 140px;
+    padding-top: 3%;
+}
+#paras1{
+    color: rgba(105, 105, 105, 0.863);
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.box{
+    width: 50%;
+    height: 50vh;
+    float: left;
+}
+#sec3{
+    width: 100%;
+    height: 100vh;
+}
+.blue_box1{
+    float: right;
+    background-color: skyblue;
+    width: 50%;
+    height: 50vh;
+    flex-direction: column;
+}
+#web{
+    float: left;
+    width: 12%;
+    height: 12%;
+}
+.box1{
+    float: right;
+    width: 50%;
+    height: 50vh; 
+}
+.blue_box2{
+    float: left;
+    background-color: skyblue;
+    width: 50%;
+    height: 50vh;
+    flex-direction: column;
+}
+#head2{
+    margin: 1%;
+    color: white;
+}
+.blue_mini{
+    margin: 3%;
+}
+.blue_mini2{
+    margin: 3%;
+}
+#para3{
+    color: rgb(232, 236, 238);
+}
+#fourth_box{
+    display: flex;
+}
+.heading3{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    margin-left: 10%; 
+}
+.para4{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 22%;
+    padding-right: 22%;
+    text-align: center;
+}
+.hr2{
+    width: 5%;
+    color: skyblue;
+    margin-left: 45%;
+}
+.imgs1{
+    height: 38vh;
+    width: 100%;
+}
+.name{
+    padding-bottom: 0.5%;
+}
+.para5{
+    color: skyblue;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.boxes5{
+    float: left;
+    border:  skyblue;
+    background-color: aqua;
+    padding-left: 9.7%;
+    margin-top: 1%;
+    color: white;
+    padding-right: 8.5%;
+}
+.imgs2{
+    width: 50%;
+    height: 8vh;
+}
+.number{
+    color: rgba(226, 234, 240, 0.938);
+}
+.name1{
+    font-size: 50%;
+}
